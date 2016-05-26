@@ -1,0 +1,1 @@
+[20-May-2016 14:03:19 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function getErrorMSG() in /home/jeremysi/public_html/fasheholic.com/_staging2/api/functions/member_login/memberLogin.php on line 8
